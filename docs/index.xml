@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on 海诺语简明语法</title>
+    <link>https://cathamos.github.io/docs/</link>
+    <description>Recent content in Docs on 海诺语简明语法</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 03 Jan 2024 17:26:48 +0900</lastBuildDate>
+    <atom:link href="https://cathamos.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1 音系</title>
+      <link>https://cathamos.github.io/docs/01-phonology/</link>
+      <pubDate>Wed, 03 Jan 2024 01:06:19 +0900</pubDate>
+      <guid>https://cathamos.github.io/docs/01-phonology/</guid>
+      <description>第一章｜音系 # 概述 # 海诺语大约有 23 个辅音，6 个元音，发音相对友好，辅音和元音比例适中，极少出现 CCC 以上的辅音丛。海诺语为音高重音，主要分为高调 H ，低调 L 和平调 M ，或称无调。另外在长元音中存在升调 R 和降调 F 。&#xA;以下是海诺语的元音和辅音表格。&#xA;元音&#xA;非圆唇 圆唇 前 i e y 中 a ə (ɨ) 后 o, u 辅音&#xA;唇音 齿音 腭音 声门音 塞音 p b t d k g 擦音 f v (θ) ð s z ʃ x ɣ h 塞擦音 tʃ dʒ 鼻音 m n ŋ 颤音 r 近音 l j 其中有几点需要注意：</description>
+    </item>
+    <item>
+      <title>2 拼写</title>
+      <link>https://cathamos.github.io/docs/02-orthography/</link>
+      <pubDate>Wed, 03 Jan 2024 17:04:13 +0900</pubDate>
+      <guid>https://cathamos.github.io/docs/02-orthography/</guid>
+      <description>第二章｜拼写 # 字符 # 字母 # 海诺语使用一种名为 Pocas 的全音素文字拼写。如果不算附标，Pocas 包含 26 个字符，但传统上会将带附标的字符 ė 和 ḥ 也算作单独的字符，因其拥有含义。以下是 Pocas 包含的字符列表及其含义，以传统顺序排列：&#xA;字符 名称 基础含义 抽象含义 m maer 银，金属 闪耀，高贵 d dod 人 理性，秩序 c cos 牛，腿 稳固，支柱 n nagi 雨，眼睛 暧昧，幻象 e eru 武器 攻击性，狂野 v ves 树枝 交织，纠缠 h hon 房屋，城堡 巨大，回忆 p pice 标志，记号 技巧，语言 t tulin 树，树干 通灵者，语言 l lea 河流 冬，死亡，先祖 f fen 阴影，尖端 夏，孤独 o oz 王，皇冠 生命，性 a agann 山脉 秋，西方 b bid 天空，地平线 白昼，辽阔 z zan 尖石头 火花，音乐 s sor 女巫，身体 美丽，黑夜 u ulca 谷物，谷堆 安宁，宽广 r rog 猛兽 骄傲，高洁 y yne 花，田野 春，谜语 i iott 裂缝，洞穴 幽玄，魔法 g gir 棍，杖 充盈，神灵 q qel 鱼 诡异，怪奇 w weth 风，草 感性，忧郁 y yu 剑 使命，忠实 ts tsin 火焰 神 dz dzan 十字路口 顽固，矛盾 ė ėru 碎片 脆弱，华丽 ḥ ḥon 海 深远，谜 为了方便描述，在本书中所有海诺语都用拉丁字母进行转写。海诺语一共用到了 21 个拉丁字母，它们是：</description>
+    </item>
+    <item>
+      <title>3 名词和代词</title>
+      <link>https://cathamos.github.io/docs/03-noun/</link>
+      <pubDate>Tue, 02 Jan 2024 14:49:57 +0900</pubDate>
+      <guid>https://cathamos.github.io/docs/03-noun/</guid>
+      <description>第三章｜名词和代词 # 名词 # 海诺语的名词有着少量形态变化，主要体现在词首辅音交替（initial mutation），遗留的格以及与介词结合发生的变化。&#xA;辅音交替 # 当名词的词首的辅音为以下辅音时，有可能发生辅音交替的现象：&#xA;p t c b d g m s h&#xA;其中交替类型分为弱化（lenition），浊化或称鼻音化（nasalization）和强化（fortition）三种，对应情况如下：&#xA;弱化：只发生在塞音和 m ； 浊化：浊化只发生在清塞音，鼻音化只发生在 b 和 g ； 强化只发生在 h 。 发生擦化的辅音拼写遵循前文规则。1&#xA;发生浊化的塞音拼写直接替换为对应的浊塞音，而发生鼻音化的 b 变为 m ，g 变为 ng 。&#xA;发生强化的 h 则变化为 ch /x/ 。&#xA;辅音交替的发生条件 # 名词的辅音交替发生的条件是，前面有 i /ə/ 或 ar /ər/ 标记，分别是单数定指和复数定指，可以理解为“那”，“那些”。&#xA;其中 i 会引起浊化， ar 会引起弱化或强化：&#xA;i + cud -&amp;gt; i gud “那杯子” i + toca -&amp;gt; i doca “那鸟” ar + cud -&amp;gt; ar chud “那些杯子” ar + toca -&amp;gt; ar thoca “那些鸟” ar + hos -&amp;gt; ar chos “那些洞” 另外，存在一些特殊情况：</description>
+    </item>
+    <item>
+      <title>4 动词概述</title>
+      <link>https://cathamos.github.io/docs/04-verb-1/</link>
+      <pubDate>Wed, 03 Jan 2024 17:25:10 +0900</pubDate>
+      <guid>https://cathamos.github.io/docs/04-verb-1/</guid>
+      <description>第四章｜动词概述 # 海诺语的动词系统比较复杂，因此本书将动词篇章分为三个部分进行讨论：动词基本结构，动词形态和动词特别篇。&#xA;独立型-附属型 # 在进入本篇之前，需要首先说明一下海诺动词系统的核心逻辑：独立型-附属型的区分。&#xA;海诺动词的一般结构为前置词-动词本体-后缀。只由动词本体和后缀就能够表达含义的，称为简单动词，而动词本体之上带有一个及以上前置词的，称为复合动词，前置词和动词本体之间以中点 · 分隔，如：&#xA;lege 简单动词 “阅读” da·leg 复合动词 “出版” lege 是一个简单动词，它由动词词根 leg- 和后缀 -a/-e 构成，像这样的形态称为独立型。而 da·leg 是一个复合动词，它由前置词 da· 和看似是动词词根的 leg 构成。此处的 leg ，被称为动词的附属型，通常记为 ·leg。&#xA;复合动词的独立型即是它本身。同时，复合动词也有附属型，这体现在前置词的形态上。在词典中，动词的独立型一般会和其附属型一同列出。&#xA;附属型 ≠ 动词词根！虽然它们有时候是同型的。&#xA;以 nada “赞美”和 ci·nad “祈祷”为例，独立-附属型和简单-复合动词的关系如下：&#xA;独立型 附属型 简单动词 nada ·nad 复合动词 ci·nad ec·nad 前置词 # 有了上述基本概念，再来看前置词。所谓的前置词，是对于放在动词之前的各种成分的统称，它们可以被细分为体貌标记，语气标记，语态标记，方向缀等。这些前置成分可以互相组合表达更丰富的含义，由此可见它们是粘着的。但由于缩合现象的产生，某些词缀组合发生了音变，导致同样的形态表达复数语法含义，或者被整体替换，甚至影响到其后的动词形态。从这个角度看，前置成分又带有部分的屈折。&#xA;前置词在海诺动词系统中占据极其重要的地位，它们表达了动作的状态，方向，倾向，时间，和论元的关系等。可以说，在复合动词中前置词才是中心，它们被视为“主动词”，而表达动作内容的部分则“退化”为附属型，独立型-附属型的区分便由此而来。这种用法可以被视作应动语态（applicative）1的运用。在某些情况下，附属型的动词甚至可以被看作一种“副词”。下面列举两个比较极端的例子，方便理解：&#xA;rochogen·asir i baema. ro&amp;lt;r&amp;gt;sog-en-asiribae=ma INCH&amp;lt;3SG&amp;gt;-CONT-walkFOCway=this “他要一直沿着这条路走” 该句可粗略理解为“他意图要沿着那个一直持续，走地，这条路”。&#xA;其中 rochogen· 可以拆分为 ro&amp;lt;r&amp;gt;sog-en- “意图&amp;lt;3SG&amp;gt;沿着-持续”，而其后的附属型 ·asir ，表达了动作发生的方式，接受前置词的“掌管”。因此，在某些情况例如动作内容和前文相同时，这个内容会被直接替换为 ·dhé ，可以视作动词的“回指”。&#xA;ileren·asir i lama anu ė baesog, ta rochogen·dhém.</description>
+    </item>
+    <item>
+      <title>5 动词基本结构</title>
+      <link>https://cathamos.github.io/docs/05-verb-2/</link>
+      <pubDate>Wed, 03 Jan 2024 17:25:22 +0900</pubDate>
+      <guid>https://cathamos.github.io/docs/05-verb-2/</guid>
+      <description>第五章｜动词基本结构 # 简单动词 # 概述 # 如前文所述，简单动词即为动词本体和后缀就能够表达含义的动词。最简单的判断方法是动词中没有中点 · 分隔，如：cara “看”，sése “睡”。cara 可以拆分为car-a，而 sése 可以拆分为 sés-e。&#xA;目前尚不清楚简单动词和动词本身含义是否简单有没有直接关系，根据最近的调查显示，某些简单动词的有着比较复杂的意思，如 ethona “怀疑”。推测原因是这些动词在古老的时代仍是复合动词，但随着时代更迭逐渐固定为简单动词。亦存在一定数量的外语借词，以简单动词的形式出现而包含比较复杂的含义，如 tígure “稳定”，ciráse “掌握”，“了解”，这类词一般由三个辅音组成，第一个元音多为i。而这样的借词也有被构造为复合动词的情况，如 ní·cirás “解释”。&#xA;简单动词添加人称的方式 # 海诺语的配列系统呈现出一部分活格（fluid-S）特征，因此简单动词添加人称有两种方式：&#xA;添加独立代词； 添加人称附着词。 及物动词的情况，使用独立代词：&#xA;posa sana todd “她听声音” voi ve galo “我喝酒” 不及物动词的情况，使用人称附着词或独立代词，使用人称附着词时往往带有不自觉的意味：&#xA;tama sana “她来” sése isi “你们入睡” sése asu “你们强行睡觉” 在口语中，ev 可能变为 o ，asi/si 可能变为 isí/sí ，如：&#xA;men a dhén isí “你们在干嘛” coghea o “我乐意” 当动词为及物动词时，也有可以使用人称附着词的情况。此时句子暗示一种不自觉的行为，或者受到某种影响而进行动作。试比较：&#xA;posa sana todd “她听声音” posa ana (in) todd “她听到声音” 第一句可能指她主动去听声音，而第二句暗示她不经意听到了声音。此时宾语可以带上一个 in 的标记。不自觉行为除了这种方式，还可以通过构造复合动词来表达：dan·phos todd “她听到声音”。</description>
+    </item>
+    <item>
+      <title>6 动词形态</title>
+      <link>https://cathamos.github.io/docs/06-verb-3/</link>
+      <pubDate>Wed, 03 Jan 2024 17:25:31 +0900</pubDate>
+      <guid>https://cathamos.github.io/docs/06-verb-3/</guid>
+      <description>第六章｜动词形态 # 海诺动词的形态可以大致分为四类：体貌，时态，语气和语态。其中时态的概念与一般所说的在时间轴上某个确定位置的时态不一样，海诺语中的时态更类似“相对时态”。除此之外，还有两个章节分别讨论动词附属型和动名词，这些章节的内容都与前置词有紧密的联系。&#xA;体貌 # 海诺语的体貌一般由语法性前置词 + 动词构造，可以分成三个大类：完成体，进行体和将行体，其下又分别可以分几个小类。&#xA;完成体 # 完成体又可细分为简单完成体（perfect）和经历体（experiential），分别由 ar· 和 eb·stem-u 构造。&#xA;ar·：表示一个动作已完成，如 ar·dam “我已经来了”，ar·chiz “你已经吃了”，are·mel “他已离去”。附属型为 ir· 。 eb·VERB-u：表示一个动作曾被做过，如 eb·damu “我曾来过”，eb·chizdu “你吃过”，eber·melu “他曾离开过”。 有一类动词称为消费性动词，如吃，喝，读等，它们拥有一种完全完成体，由前缀 an- 构造。有人认为这是一种“终止体”。设想一个情景：你开始吃一个苹果，并最终把它吃完了，这句话在海诺语里是：&#xA;anciz as i dono.&#xA;“你吃完了那个苹果。” 而如果你只是开始了“吃”这个动作，而没有确实地把苹果“消费完”，那么这句话就是：&#xA;ar·chiz i dono (d·ilcí).&#xA;你吃了那个苹果（但没吃完）。 此处通常会加上一个副词 d·ilcí ，意为“还有”，“还剩”。&#xA;ar· 配合后缀 -u 使用可以表达某人曾做过但现在没在做了的事：&#xA;ar·ghedui atadh neb ón idég.&#xA;我父亲曾当过司机。 进行体 # 进行体可细分为正在进行体（progressive）和持续体（continuous），分别表示动作正在进行和动作造成的影响/动作状态一直持续。正在进行体由前置词 en· 构造。&#xA;en·：表示一个动作正在进行，如 en·saúb “正在穿衣服”，ena·ghabho “你正在拿”，eniu·laes “他们正在戴（帽子）”。附属型为 enni· 。 持续体的情况比较复杂，它的表达方式有两种，其中一种和正在进行体基本一致，即加前置词 en· 。不同的是，持续体的 en· 不能带人称附着词，如果要添加人称信息，必须在动词后加人称，或者使用介词变位，如：</description>
+    </item>
+    <item>
+      <title>7 动词特别篇</title>
+      <link>https://cathamos.github.io/docs/07-verb-4/</link>
+      <pubDate>Wed, 03 Jan 2024 17:25:48 +0900</pubDate>
+      <guid>https://cathamos.github.io/docs/07-verb-4/</guid>
+      <description>第七章｜动词特别篇 # 动词特别篇将展开讨论动词的词根类型，前置词和方向缀，其中方向缀的能产性虽不高，但与复合动词的语义，介词搭配，以及后文将讨论的应动语态有关，因此单独列出。&#xA;词根类型 # 注意：词根类型一节为单纯的形态说明，语法描述较少，可酌情阅读。&#xA;简单动词的词根可大致分为辅音词根和元音词根，其中辅音词根又可以细分为单辅音，复辅音和带中缀词根。&#xA;单辅音词根 # 这类词根结尾只有一个辅音，占海诺语动词的大多数。如 cum- “吹风”，des- “咬”，lubh- “观察”，等等。单辅音词根的非独立型和词根相同，独立型则根据词根元音的前后加后缀 -a 或 -e ：dep. ·cum, ind. cuma, dep. ·des, ind. dese 。它们的动名词1构造形式是直接在尾辅音之前插入 -í- ，或者改变元音，如：&#xA;cum- -&amp;gt; cym “吹风” coz- -&amp;gt; coíz “亲吻” van- -&amp;gt; vaín “拨动” 复辅音词根 # 与单辅音词根类似，这类词根的结尾有两个辅音，如 esémn- “装饰”，host- “笑”，menc- “搬运”。一般来说，它们的非独立型和独立型相同，都要在词尾加后缀。但有些复辅音词根在构造非独立型时，尾辅音会和后缀元音发生换位现象，即 -CCV -&amp;gt; -CVC ，例如：&#xA;oz(e)n-: dep. ·ozen, ind. ozne “期待”，“期望” god(a)r-: dep. ·godar, ind. godra “交叉” gach(i)r-: dep. ·gachir, ind. gachri “投”，“射” 复辅音词根在构造动名词时，一般有两种，一种是类似单辅音直接在尾复辅音前插入 -í- 或改变词根元音，一种是将尾复辅音拆开后插入 -í- 。而对于发生换位的，则是将 -í- 插在换位的元音后或者使之前化。</description>
+    </item>
+    <item>
+      <title>8 形容词和副词</title>
+      <link>https://cathamos.github.io/docs/08-adjective-adverb/</link>
+      <pubDate>Wed, 03 Jan 2024 17:26:24 +0900</pubDate>
+      <guid>https://cathamos.github.io/docs/08-adjective-adverb/</guid>
+      <description>第八章｜形容词和副词 # 在这本书中，除前文的冠词和指示代词，一切“修饰”名词的词语都被当作形容词讨论，因此由动词构造的定语也会在本章内出现。&#xA;形容词 # 形容词的结构 # 形容词多数以 -a 结尾，少数没有规则的词尾可供判断。某些形容词的词尾可以被归类，如表示性质，材质，可能性，对事物的影响等。以下是一些常见词尾：&#xA;词尾 含义 例词 -a 无特殊含义 guna “古老的” -sa/-ssa 某种性质 thencisa “有问题的” -ra 对外部影响 tandira “保暖的” -ea/-ia 自身特点 taroia “金色的” -da 材质 tarda “金制的” -atta/-etta 可能性 dyvetta “可数的” 有多个形容词形容一个名词，一个形容词同时形容两个并列名词，或名词为定指复数时，形容词需要采用并列形态，即把词尾改为i或添加i：&#xA;bae achli mizi&#xA;“又黑又窄的路” egúz tardi rutti&#xA;“奇怪的金戒指” lona o dhavez soreri&#xA;“美丽的少女和少年” 形容词的功能 # 形容词主要有做定语，做表语和名词化几种功能。做定语时，形容词需要遵循一定的语序。大多数形容词需要位于中心语之后，而描述形状，数量的形容词则需要在中心语之前。&#xA;é phri canni&#xA;“那些黄色的果子” biordi é phri&#xA;“那些圆的果子” heri aesi caúis&#xA;“又大又高的石头” cá boca&#xA;“很多的树” 形容词不根据名词本身的单复数变形。</description>
+    </item>
+    <item>
+      <title>9 介词</title>
+      <link>https://cathamos.github.io/docs/09-preposition/</link>
+      <pubDate>Wed, 03 Jan 2024 17:26:38 +0900</pubDate>
+      <guid>https://cathamos.github.io/docs/09-preposition/</guid>
+      <description>第九章｜介词 # 介词根据所处位置可被分为两类：前置介词和后置介词。前置动词主要表达方向，趋向等，而后置介词主要表达状态，位置。&#xA;有些介词如 car, im 等既可以前置也可以后置。&#xA;介词和前置词在很多情况下是重叠的，即它们可以互相转化。有些与动词结合的不够紧密的前置词在实际使用时经常脱离动词而以独立介词的形态出现，比如 car, du 等。现代海诺语中，介词经常被作为前置词结合在动词上，构造应动语态，而非直接在句子中标记非核心论元。&#xA;前置介词 # 此类介词置于名词前，且不造成辅音交替现象。常见的前置介词有：&#xA;介词 含义 al 在&amp;hellip;上 be 在&amp;hellip;下 eb 穿过 neiv 越过，跨越，另一边 nos 越过 sur(u) &amp;hellip;时 óg 关于，以，因为 ci 在&amp;hellip;之间 后置介词 # 后置介词通常作为附着词黏在名词之后，有时会造成前文所述的辅音丛简化现象。一些常用的后置介词有：&#xA;介词 含义 gav 在&amp;hellip;旁边，侧 car 从，来自 cal 环绕，周围 man 前面 aéd 后面 im 向，深入 du / ttu 上面 组合介词 # 有些介词可以组合成为新的介词，表达更精确的含义。一般来说，介词组合符合方向/位置+状态变化的模式。而组合的结果也并不一定是简单相加。一些例子有：&#xA;du + car -&amp;gt; ducar “自上而下” be + cal -&amp;gt; begal “笼罩”，“在某范围内” al + be -&amp;gt; ilbe “因为，用，以” 有些介词还可以和不是介词的其他词类组合，如：</description>
+    </item>
+    <item>
+      <title>10 数词</title>
+      <link>https://cathamos.github.io/docs/10-number/</link>
+      <pubDate>Wed, 03 Jan 2024 17:26:48 +0900</pubDate>
+      <guid>https://cathamos.github.io/docs/10-number/</guid>
+      <description>第十章｜数词 # 数词可以分为基数词和序数词。&#xA;其中基数词有独立型和修饰型两种形式。基数词还可以通过添加词缀构造指人和指物数词。&#xA;数字系统采用十进制。&#xA;基数词 # 基数词 0-10 如下：&#xA;数词 数字 ged 0 aís 1 deb 2 ság 3 scer 4 mun 5 sé 6 síf 7 taíg 8 imi 9 er 10 此为独立型，用于数数和报号码等场合。例如：&#xA;aís, deb, ság, scer, mun&#xA;1, 2, 3, 4, 5 scer, mun, ság, sé, deb, mun, aís&#xA;4, 5, 3, 6, 2, 5, 1 修饰型用于描述所数物体的数量，如3 个苹果，5 头牛。&#xA;修饰型在形式上除了 0，3，4，6 之外，都与独立型相同。&#xA;以下是修饰型 0-10（不同的数字以粗体标出）：&#xA;词语 数字 gedi 0 aís 1 deb 2 sága 3 cher 4 mun 5 séch 6 síf 7 taíg 8 imi 9 er 10 数词修饰型一般跟在被修饰的名词之后：</description>
+    </item>
+  </channel>
+</rss>
